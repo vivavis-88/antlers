@@ -1,0 +1,20 @@
+======================================================================
+Timestamp: 2026-11-25 15:07:05
+Status:    SIMULATED (Gmail SMTP not configured in config/mail.php)
+To:        Test Rider Applicant <test.applicant.verify@gmail.com>
+Subject:   MEMOLOG: Your Rider Application Has Been Approved!
+Body:
+MEMOLOG
+Delivery Auditing &amp; Rider Earnings
+
+Application Approved
+Hi Test Rider Applicant,
+Great news! Your rider application for MEMOLOG has been reviewed and approved by the Administrator. Your rider account is now active.
+Assigned Rider Code: RDR-003
+Login Email: test.applicant.verify@gmail.com
+
+Admin Note: Approved for testing
+Sign in using the email and password you registered with to view your assigned deliveries, track your daily quota, verify items, and monitor your earnings.
+Sign In to MEMOLOG
+This is an automated message from MEMOLOG Delivery Operations.
+
